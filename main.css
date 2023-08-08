@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-color:white;
+}
+
+.tophead{
+    background-color: FFDDCC;
+    overflow: hidden;
+}
+
+.tophead a{
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    float: left;
+}
+
+.tophead a.push{
+    background-color: FFCCCC;
+   float: right;
+}
+
+.tophead a:hover{
+background-color: FEBBCC;
+color: white;
+
+}
+
+.picdiv{
+    height: 200px;
+    width: 200px;
+}
